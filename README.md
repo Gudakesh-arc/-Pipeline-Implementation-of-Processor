@@ -31,3 +31,6 @@ Ensure you have the following installed:
 
 Icarus Verilog: A Verilog simulation tool.
 GTKWave: A waveform viewer
+
+**Test Bench**
+Add three numbers 10 20 and 30  stored in registers 
