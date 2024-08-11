@@ -28,7 +28,6 @@ Branching: Handles conditional branches with simple branch prediction (branch de
 **Setup and Simulation**
 **Prerequisites**
 Ensure you have the following installed:
-
 Icarus Verilog: A Verilog simulation tool.
 GTKWave: A waveform viewer
 
