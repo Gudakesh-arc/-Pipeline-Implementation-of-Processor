@@ -2,15 +2,15 @@
 This project implements a MIPS32 pipeline processor using Verilog. The implementation is verified using Icarus Verilog for simulation and GTKWave for waveform analysis. The MIPS32 model supports basic arithmetic operations, as confirmed by the provided test bench.
 
 **Table of Contents**
--Introduction
--Features
--Project Structure
--Setup and Simulation
--Usage
--Waveform Analysis
--Test Bench
--Contributing
--License
+-Introduction.
+-Features.
+-Project Structure.
+-Setup and Simulation.
+-Usage.
+-Waveform Analysis.
+-Test Bench.
+-Contributing.
+-License.
 **Introduction**
 This project demonstrates the design and simulation of a MIPS32 pipeline processor. The processor is capable of executing basic arithmetic operations with a simple pipelined architecture. The implementation is written in Verilog and can be simulated using Icarus Verilog, with results viewable in GTKWave.
 
